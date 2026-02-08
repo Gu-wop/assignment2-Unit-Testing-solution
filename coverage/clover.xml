@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1770587936112" clover="3.2.0">
-  <project timestamp="1770587936112" name="All files">
-    <metrics statements="23" coveredstatements="23" conditionals="13" coveredconditionals="13" methods="11" coveredmethods="11" elements="47" coveredelements="47" complexity="0" loc="23" ncloc="23" packages="1" files="2" classes="2"/>
+<coverage generated="1770588434067" clover="3.2.0">
+  <project timestamp="1770588434067" name="All files">
+    <metrics statements="29" coveredstatements="26" conditionals="22" coveredconditionals="19" methods="11" coveredmethods="11" elements="62" coveredelements="56" complexity="0" loc="29" ncloc="29" packages="1" files="2" classes="2"/>
     <file name="constants.ts" path="/Users/aronkristjansson/HR/vor_2026/assignment2-Unit-Testing-solution/src/constants.ts">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="cond" truecount="2" falsecount="0"/>
@@ -13,23 +13,29 @@
       <line num="7" count="1" type="stmt"/>
     </file>
     <file name="dateUtils.ts" path="/Users/aronkristjansson/HR/vor_2026/assignment2-Unit-Testing-solution/src/dateUtils.ts">
-      <metrics statements="16" coveredstatements="16" conditionals="11" coveredconditionals="11" methods="10" coveredmethods="10"/>
+      <metrics statements="22" coveredstatements="19" conditionals="20" coveredconditionals="17" methods="10" coveredmethods="10"/>
       <line num="5" count="2" type="stmt"/>
       <line num="9" count="9" type="cond" truecount="4" falsecount="0"/>
       <line num="10" count="2" type="stmt"/>
       <line num="12" count="7" type="cond" truecount="4" falsecount="0"/>
       <line num="13" count="1" type="stmt"/>
-      <line num="15" count="6" type="stmt"/>
-      <line num="19" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="20" count="1" type="stmt"/>
+      <line num="16" count="6" type="cond" truecount="3" falsecount="3"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
       <line num="22" count="4" type="stmt"/>
-      <line num="26" count="3" type="stmt"/>
-      <line num="30" count="9" type="stmt"/>
-      <line num="35" count="7" type="stmt"/>
-      <line num="36" count="7" type="stmt"/>
-      <line num="37" count="7" type="stmt"/>
-      <line num="47" count="3" type="stmt"/>
-      <line num="48" count="6" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="33" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="36" count="4" type="cond" truecount="3" falsecount="0"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="44" count="9" type="stmt"/>
+      <line num="49" count="7" type="stmt"/>
+      <line num="50" count="7" type="stmt"/>
+      <line num="51" count="7" type="stmt"/>
+      <line num="61" count="3" type="stmt"/>
+      <line num="62" count="6" type="stmt"/>
     </file>
   </project>
 </coverage>
